@@ -1,0 +1,21 @@
+
+mybatis 简单例子（快速入门）
+
+https://www.cnblogs.com/liangxiaofeng/p/6371866.html
+
+
+create table t_user(
+
+id varchar(60) primary key,
+username varchar(20),
+password varchar(20),
+account  varchar(20)
+
+);
+
+
+
+3.5 部门列表查询
+http://localhost:8080/xppMybatis/aaDepartment?qqiu=list
+
+
